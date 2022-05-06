@@ -1,0 +1,14 @@
+{
+    "name": "hellonico/nav-menu-item-hash",
+    "description": "Adds a hash field to WordPress nav menu item.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Nicolas Lemoine",
+            "email": "nico@niconico.fr"
+        }
+    ],
+    "require-dev": {
+        "symplify/easy-coding-standard": "^10.2"
+    }
+}
